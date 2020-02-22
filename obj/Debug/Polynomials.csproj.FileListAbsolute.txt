@@ -1,0 +1,6 @@
+C:\Users\ariel\source\repos\Polynomials\obj\Debug\Polynomials.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\Polynomials\bin\Debug\Polynomials.exe.config
+C:\Users\ariel\source\repos\Polynomials\bin\Debug\Polynomials.exe
+C:\Users\ariel\source\repos\Polynomials\bin\Debug\Polynomials.pdb
+C:\Users\ariel\source\repos\Polynomials\obj\Debug\Polynomials.exe
+C:\Users\ariel\source\repos\Polynomials\obj\Debug\Polynomials.pdb
